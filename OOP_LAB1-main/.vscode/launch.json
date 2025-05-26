@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/hongthai/Downloads/OOP_LAB1-main",
+      "program": "/Users/hongthai/Downloads/OOP_LAB1-main/build/Debug/outDebug"
+    }
+  ]
+}
